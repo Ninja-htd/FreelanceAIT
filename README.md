@@ -33,7 +33,7 @@ composer install
 
 ## Copier le fichier .example.env
 
-cp .exemple.env
+cp .exemple.env .env
 
 ## Installer build pour lancer la construiction
 
